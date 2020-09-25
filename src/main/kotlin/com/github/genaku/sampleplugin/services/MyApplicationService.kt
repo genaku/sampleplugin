@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.genaku.sampleplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.genaku.sampleplugin.MyBundle
 
 class MyApplicationService {
 
